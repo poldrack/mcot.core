@@ -66,7 +66,7 @@ requirements = [
     'colorcet',
     'dask[array]',
     'pandas',
-    'sklearn',
+    'scikit-learn',
     'scikit-image',
 ]
 
